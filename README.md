@@ -1,7 +1,7 @@
 # From Warehouse to Wealth: How Mark Transformed His Financial Future with TradeEU Global
 
 [![Trading Success](https://img.shields.io/badge/Trading-Success%20Story-brightgreen)](https://github.com)
-[![Platform](https://img.shields.io/badge/Platform-TradeEU%20Global-blue)](https://github.com)
+[![Platform](https://img.shields.io/badge/Platform-TradeEU%20Global-blue)](https://www.tradeeuglobal.net/)
 [![ROI](https://img.shields.io/badge/ROI-349%25-orange)](https://github.com)
 
 > **Success Story**: A 34-year-old warehouse supervisor's journey from $15,000 to $67,000 in 9 months through disciplined trading
